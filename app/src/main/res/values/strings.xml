@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DyscalculAid</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="n">n</string>
+    <string name="d">d</string>
+    <string name="q">q</string>
+    <string name="loonie">loonie</string>
+    <string name="toonie">toonie</string>
+    <string name="five">five</string>
+    <string name="ten">ten</string>
+    <string name="twenty">twenty</string>
+    <string name="fifty">fifty</string>
+    <string name="hun">hun</string>
+    <string name="wallet1">wallet1</string>
+    <string name="wallet2">wallet2</string>
+    <string name="wallet3">wallet3</string>
+    <string name="wallet4">wallet4</string>
+    <string name="wallet5">wallet5</string>
+    <string name="title_activity_checkout">Checkout</string>
+    <string name="title_activity_change">Change</string>
+
+
+</resources>
